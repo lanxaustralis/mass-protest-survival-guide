@@ -1,16 +1,16 @@
 # GUIDELINE: JOINING AND SURVIVING A MASS PROTEST  
 
 ## Table of Contents  
-1. [General Information: We Hope This Guide Remains Unused](#0-general-information-we-hope-this-guide-remains-unused)  
-2. [Before You Go](#1-before-you-go)  
+1. [General Information: We Hope This Guide Remains Unused](#1-general-information-we-hope-this-guide-remains-unused)  
+2. [Before You Go](#2-before-you-go)  
    - [Plan & Prepare](#plan--prepare)  
    - [Clothing & Gear](#clothing--gear)  
-3. [During the Protest](#2-during-the-protest)  
+3. [During the Protest](#3-during-the-protest)  
    - [Situational Awareness](#situational-awareness)  
    - [Dealing with Confrontation](#dealing-with-confrontation)  
    - [Protecting Face & Eyes](#protecting-face--eyes)  
-4. [If Arrested](#3-if-arrested)  
-5. [After the Protest](#4-after-the-protest)  
+4. [If Arrested](#4-if-arrested)  
+5. [After the Protest](#5-after-the-protest)  
 
 ---
 
