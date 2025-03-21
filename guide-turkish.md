@@ -1,17 +1,17 @@
 # KİTLESEL PROTESTOLARA KATILIM VE GÜVENLİK REHBERİ  
 
 ## İçindekiler  
-1. [Genel Bilgilendirme: Umarız Bu Rehberi Kullanmanıza Gerek Kalmaz](#1-genel-bilgilendirme-umarız-bu-rehberi-kullanmanıza-gerek-kalmaz)  
-2. [Protestoya Gitmeden Önce](#2-protestoya-gitmeden-önce)  
+1. [Genel Bilgilendirme](#1-genel-bi̇lgi̇lendi̇rme-umariz-bu-rehberi̇-kullanmaniza-gerek-kalmaz)
+2. [Protestoya Gitmeden Önce](#2-protestoya-gi̇tmeden-önce)
    - [Planlama ve Hazırlık](#planlama-ve-hazırlık)  
    - [Kıyafet ve Ekipman](#kıyafet-ve-ekipman)  
-3. [Protesto Sırasında](#3-protesto-sırasında)  
+3. [Protesto Sırasında](#3-protesto-sirasinda)  
    - [Çevresel Farkındalık](#çevresel-farkındalık)  
    - [Müdahale Durumunda Yapılması Gerekenler](#müdahale-durumunda-yapılması-gerekenler)  
    - [Yüz ve Göz Koruması](#yüz-ve-göz-koruması)  
-4. [Gözaltına Alınırsanız](#4-gözaltına-alınırsanız)  
+4. [Gözaltına Alınırsanız](#4-gözaltina-alinirsaniz) 
 5. [Protestodan Sonra](#5-protestodan-sonra)
-6. [Son Olarak...](#6-protestodan-sonra)  
+6. [Son Olarak...](#6-son-olarak)  
 
 ---
 
@@ -47,9 +47,7 @@ Barışçıl, bilinçli ve hazırlıklı olmak hem sizi hem de diğer katılımc
 
 ---
 
-# KİTLESEL PROTESTOLARA KATILIM VE GÜVENLİK REHBERİ  
-
-## 1. PROTESTOYA GİTMEDEN ÖNCE  
+## 2. PROTESTOYA GİTMEDEN ÖNCE  
 
 ### Planlama ve Hazırlık  
 - **Hukuki Haklarınızı Bilin**: Türkiye'de gösteri ve yürüyüş hakkınızı düzenleyen **2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu**’nu okuyun.  
@@ -90,7 +88,7 @@ Barışçıl, bilinçli ve hazırlıklı olmak hem sizi hem de diğer katılımc
 
 ---
 
-## 2. PROTESTO SIRASINDA  
+## 3. PROTESTO SIRASINDA  
 
 ### Çevresel Farkındalık  
 - Polis hatlarını, çıkış noktalarını ve **toplu gözaltı riski (kettling) oluşturabilecek alanları** takip edin.  
@@ -132,7 +130,7 @@ Barışçıl, bilinçli ve hazırlıklı olmak hem sizi hem de diğer katılımc
 
 ---
 
-## 3. GÖZALTINA ALINIRSANIZ  
+## 4. GÖZALTINA ALINIRSANIZ  
 
 Gözaltına alınmak stresli bir durum olabilir, ancak **önceden önlem almak ve bilinçli hareket etmek**, bu süreci daha güvenli hale getirebilir.  
 
@@ -177,7 +175,7 @@ Gözaltına alınmak stresli bir durum olabilir, ancak **önceden önlem almak v
 
 ---
 
-## 4. PROTESTODAN SONRA  
+## 5. PROTESTODAN SONRA  
 - **Kıyafetlerinizi diğer kıyafetlerden ayrı yıkayın.**  
   - Öncesinde **soğuk suyla durulanarak kimyasal kalıntılar temizlenmelidir.**  
 - **Olayları not alın:**  
@@ -190,7 +188,7 @@ Gözaltına alınmak stresli bir durum olabilir, ancak **önceden önlem almak v
  
 ---
 
-## 5. SON OLARAK...
+## 6. SON OLARAK...
 
 Bir protesto **sadece bir gün, bir saat ya da bir anlık bir olay olmayabilir.** Uzun vadede amacınıza ulaşmak için **zihinsel, fiziksel ve duygusal dayanıklılığınızı korumanız gerekir.**  
 
