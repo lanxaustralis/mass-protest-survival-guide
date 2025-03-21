@@ -10,7 +10,8 @@
    - [Dealing with Confrontation](#dealing-with-confrontation)  
    - [Protecting Face & Eyes](#protecting-face--eyes)  
 4. [If Arrested](#4-if-arrested)  
-5. [After the Protest](#5-after-the-protest)  
+5. [After the Protest](#5-after-the-protest)
+6. [Lastly...](#6-lastly)   
 
 ---
 
@@ -124,3 +125,37 @@ By staying vigilant, informed, and proactive, you can help make protests safer f
 - **Debrief**: Write down incidents, injuries, or abuses.  
 - **Avoid social media posts** with identifiable images.  
 - **Support others**: Check on fellow protesters, donate to legal aid/bail funds.  
+
+---
+
+## 6. LASTLY...
+
+A protest is not always a momentary event — it can be part of a long-term struggle. To remain effective, you need to protect your **mental, physical, and emotional well-being**.
+
+### **Act with Intention and Preserve Your Energy**  
+- **You don’t have to engage in every confrontation.**  
+  - Getting arrested or taking unnecessary risks can drain your energy and undermine your goals.  
+  - Strength in protest isn’t just about standing firm today — it’s about staying committed in the long run.  
+- **Sometimes, stepping back is the smartest move.**  
+  - Don’t act on impulse. Evaluate the situation, understand the risks, and prioritize your safety.  
+  - Resistance isn’t always loud or physical — sometimes, it’s strategic and quiet.  
+
+### **Be Alert to Provocations: Protect the Legitimacy of the Movement**  
+- Even when your rights are legally protected, **there may be efforts to delegitimize your cause.**  
+  - Not everyone in the crowd may share your goals.  
+  - Some individuals might try to provoke conflict or introduce slogans and banners that could derail the protest’s message.  
+  - If you notice such behavior, don’t confront it alone. Calmly point it out and ask others around you to help de-escalate.  
+  - Group awareness is a powerful tool — together, you can prevent provocations from taking hold.  
+- **Movements gain strength from discipline and clarity, not just volume.**  
+  - Strategy and composure are what make voices truly heard.  
+
+### **Stay Calm, Even in the Worst Moments**  
+- If tensions rise — during arrests, tear gas deployment, or crowd dispersals — do your best to remain calm.  
+- Focus on what you’ve prepared for: your breathing, your safety plan, your support system.  
+- Fear is natural, but don’t let it lead your actions. You are most powerful when you remain steady.
+
+---
+
+This guide is not just about physical safety — it’s about helping you move wisely and confidently through difficult moments. In the end, **your strength lies not just in showing up, but in staying grounded and resilient over time.**
+
+
